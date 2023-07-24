@@ -1,3 +1,5 @@
+Fork just to fix: https://github.com/cython/cython/issues/5541
+
 
 pymssql - DB-API interface to Microsoft SQL Server
 ==================================================
