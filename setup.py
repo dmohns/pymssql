@@ -293,6 +293,7 @@ setup(
         "write_to_template": '#define PYMSSQL_VERSION "{version}"',
         "local_scheme": "no-local-version",
     },
+    version='2.2.7',
     description = 'DB-API interface to Microsoft SQL Server for Python. (new Cython-based version)',
     long_description = mk_long_description(2),
     long_description_content_type = 'text/x-rst',
